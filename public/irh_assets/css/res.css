@@ -1,0 +1,355 @@
+header {margin-top: -55px;}
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1160px) {
+.infographic .circleSec .circleSec_sub {width: 200px; height: 200px;}
+.infographic .circleSec .circleSec_sub i img{width: 50px;}
+.infographic .circleSec .circleSec_sub h5 {font-size: 18px;}
+.resourcebox .card .card-footer small img{width: 13px;}
+.resourcebox .card .card-footer small{padding-right: 0;}
+.card-footer ul li span {font-size: 12px;}
+
+}
+
+@media only screen and (max-width: 1000px) {
+.card-footer {padding: .75rem 10px;}
+.card-footer ul li {width: 28%; font-size: 13px;}
+
+/* .slider_area .left_arro{left:22px; z-index: 1;}
+.slider_area .right_arro {right:22px; z-index: 1;} */
+}
+
+@media only screen and (max-width: 992px) {
+.navbar-collapse {top: 45px;}
+
+}
+
+@media only screen and (max-width: 991px) {
+.container {max-width: 900px;}
+section#categories .categorybox .category {padding: 15px;}
+section#categories .categorybox img {width: 45px; height: auto;}
+.h5, h5 {font-size: 14px;}
+.boxSearchTitle {float: none; clear: both; margin-bottom: 20px;}
+
+.supportus-card .supportus_card_sub img.img_support {margin-top: -41px; width: 100px;}
+.supportus-card .supportus_card_sub h3.text-muted {margin-top: 8px;  font-size: 18px;}
+.supportus-card .supportus_card_sub {min-height: 285px;}
+.supportus-card .supportus_card_sub .pt-3{padding-top: 5px !important;}
+.supportus-card .supportus_card_sub .pt-3 p{font-size: 15px;}
+.supportus-card a.supBtn {padding: 4px; font-size: 14px;}
+
+.loginPanel {padding-right: 15px !important; max-width: 40%; padding-bottom: 15px !important;}
+
+.resource_main{height: 513px !important;}
+.resource_main .header-content .row .col-md-4{flex:0 0 50.333333%; max-width: 50%;}
+.resource_main .header-content{left: 0 !important;}
+
+.resource_fielter{height:613px !important;}
+.resource_fielter .header-content{top: 99px !important; left: 0 !important;}
+.resource_fielter .header-content .row .col-md-4{flex:0 0 50.333333%; max-width: 50%;}
+
+.card-footer ul li {padding: 4px 5px;}
+
+.navbar-dark .navbar-brand{padding-left: 15px !important;}
+
+.adminDasboartTop {background:#f5f6f9; padding: 10px 0 10px 0;}
+.adminDasboartTop h1 {font-size: 20px; padding: 0; margin: 0;}
+.adminDasboartTop h1 span {font-size: 12px; padding: 0; line-height: 13px;}
+
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn input[type="reset"], 
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn input[type="button"]{font-size: 12px !important;}
+.searchPanel .searchPanelSub .fielterSec .fieldSec {padding: 0 5px;}
+.searchPanel .searchPanelSub .fielterSec .fieldSec {width: 50%;}
+.searchPanel .searchPanelSub .fielterSec {width: 52%;}
+.searchPanel .searchPanelSub .shortBy {width: 48%;}
+.searchPanel .searchPanelSub .shortBy .fieldSec {width: 50%; padding: 0 5px;}
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn {width: 50%;}
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn input[type="button"] {width: 45% !important; margin-right: 5px; float: left;
+  padding:10px 12px !important;}
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn input[type="reset"]{width: 45%; float: left; padding:10px 12px !important;}
+
+.testi_slider_area .left_arro {left:-8px;}
+.testi_slider_area .right_arro {right:-8px;}
+
+.resource_card_first .socialMedia{display: inline-block; width: 100%;}
+.socialMedia ul li{padding: 0 4px; width: 25%; float: left;}
+.footer_subscription h1, .footer_social h1{font-size: 25px;}
+}
+
+@media only screen and (max-width: 950px) {
+.infographic .circleSec .circleSec_sub {width: 150px; height: 150px;} 
+.infographic .circleSec .circleSec_sub i img {width: 35px;}
+.infographic .circleSec .circleSec_sub span.number {width: 24px; height: 24px; right: 8px; top: 12px; padding-top: 2px; font-size: 14px;}
+
+.card-footer ul li {width: 26%; font-size: 13px;}
+.card-footer {padding: .75rem 10px;}
+}
+
+@media only screen and (max-width: 900px) {
+  ul.acOverQuicAc li {width: 25%;}
+  ul.acOverQuicAc li span {line-height: 13px;}
+}
+
+@media only screen and (max-width: 767px) {
+.navbar-collapse {top: 45px;}
+
+ul.navbar-nav li.nav-item a {border-left: none; padding:6px 5px; margin-top: 0; border-bottom: #e3d8b2 solid 1px; transition: .2s all ease-in-out;}
+ul.navbar-nav li.nav-item a:hover {background:#040404; border-bottom:#ffcd24 solid 1px;}
+
+ul.navbar-nav li.navBtn ul.dropDownLog {position: inherit; padding: 0; width: 100%;
+  top: 0; z-index: 1; transition: all .2s ease-in-out; opacity:1;}
+ul.navbar-nav li.navBtn:last-child:hover ul.dropDownLog {top: 0; opacity: 1;}
+ul.navbar-nav li.navBtn ul.dropDownLog li.navBtn a.btn{background-size: auto !important;}
+ul.navbar-nav li.navBtn ul.dropDownLog li.navBtn a.btn::after{content: inherit;}
+ul.navbar-nav li.navBtn a.btn{text-align: left;}
+
+header#main-header{height: 439px !important;}
+header#main-header .header-content {top: 60% !important;}
+
+header#contact-header{height: 439px !important;}
+header#contact-header .header-content {top: 60% !important;}
+
+/* ======== Title & Content font size  =========== */
+.h2, h2, .h1, h1, header#main-header .header-content h1, #categories h1.signika, section#community_benifit h1, .heading,
+.searchPanelCustom h2, .heading_cus, .h3, h3, .resource_title {font-size: 23px; line-height: 25px;}
+
+.searchPanelCustom .searchFormTop {padding: 15px 6px 4px 6px;}
+
+.logo.text-left {text-align: center !important;}
+
+#categories h1.signika span{font-size: 16px;}
+#video_heading_text, body {font-size: 16px;}
+
+header#contact-header .supportHeader h3 {font-size: 24px;}
+
+header#contact-header .header-content h1 {font-size: 23px; line-height: 25px;}
+header#contact-header .header-content h3{font-size: 18px; line-height: 25px;}
+.searchPanelCustom h2 {padding-bottom: 0 !important;}
+/* ======== Title & Content font size  =========== */
+.contactForm label.fieldName {font-size: 13px; margin-bottom:5px;}
+.contactForm input[type="text"], .contactForm input[type="email"] {height: 38px;}
+.contactForm .form-group {margin-bottom: 8px;}
+.contactForm .submit_contact{position:inherit; float: left; margin-left: 17px;}
+.contact_img{display: none;}
+.contactForm {padding: 38px 38px 25px 38px !important;}
+
+.login_logo {padding-bottom: 25px !important;}
+.loginPanel {margin-bottom: 25px; max-width: 450px; margin: 0 auto !important; float: none; padding:0 15px 15px 15px !important;}
+.loginPanel .searchPanelCustom{padding: 0;}
+header#main-header .header-content form {width:95%;}
+
+.community_benifit {padding: 25px 15px;}
+#intro_video {padding-top: 20px; padding-bottom: 20px;}
+section#categories{padding: 25px 15px;}
+
+.pb-5, .py-5 {padding-bottom: 20px !important;}
+.pt-5, .py-5 {padding-top: 20px !important;}
+
+.supportus_main {margin-top: 65px;}
+.supportus-card .supportus_card_sub {max-width: 320px; margin: 0 auto 66px auto;}
+
+.resource_main {height: 580px !important;}
+.resource_main .header-content {top: 32%;}
+.resource_main .header-content .row .col-md-4 {flex: inherit;max-width: 350px; margin: 0 auto;}
+
+.resource_fielter {height: 580px !important;}
+.resource_fielter .header-content {top: 32%;}
+.resource_fielter .header-content .row .col-md-4 {flex: inherit;max-width: 350px; margin: 0 auto;}
+
+.page_tab h2 {margin-bottom: 0;}
+.faq_left nav.menu {border-radius: 5px 5px 0 0; border-bottom:#fdbf2d solid 1px;}
+.faq_left nav.menu ul {text-align: left;}
+.faq_left nav.menu ul li {text-align: left; float: left; width: auto; border-bottom: none;}
+.faq_left nav.menu ul li a {padding: 12px 15px 12px 15px;}
+.faq_right .card{box-shadow: 0 3px 8px 1px #dfdfdf;}
+.faq_right .card:first-child{border-radius: 0 0 5px 5px;}
+.faq_right .card .card-header {padding: 9px 19px; font-size: 14px;}
+.faq_right .card .card-body {padding: 9px 19px; font-size: 13px;}
+.faq_right .card-header a {background-size: 16px;}
+.faq_right .card-header a.collapsed{background-size: 16px;}
+
+ul.acOverQuicAc li {width: auto;}
+.dasboard_scrol_width {max-width: 100%;}
+
+.adminDasboartBody {padding: 20px 0 20px 0;}
+
+
+.adminDasboartBody .adminProfile .profile_right .pro_right_sec ul.insight li {padding: 0 5px;}
+.adminProfile .profile_right .pro_right_sec ul.insight li span {font-size: 19px; line-height: 17px;}
+.adminProfile .profile_right .pro_right_sec ul.insight li span.sml {font-size: 12px;}
+
+.adminProfile .profile_right .pro_right_sec h3 {font-size: 14px; line-height: 18px;}
+.pro_right_sec_6 h3, .pro_right_sec_6_right h3 {font-size: 19px; line-height: 17px;}
+
+.adminProfile .profile_right .pro_right_sec {padding: 10px;}
+.dasBoardPopup {padding-top: 0;}
+
+.table td, .table th {font-size: 12px;}
+.dasBoardPopup .popupColupsPanel_top .titlePanel h3 {font-size: 14px;}
+.defaultImgSection p {font-size: 13px;}
+.dasBoardPopup .popupColupsPanel_top .titlePanel a.actionBtn {padding:5px 10px !important;}
+
+.dasBoardPopup .popupColupsPanel_bot ul.userList li .user_details {font-size: 12px;}
+.dasBoardPopup .popupColupsPanel_bot ul.userList li .closeBtn {margin-top: 14px;}
+.table td, .table th {padding: 5px;}
+.mCSB_container table.table tbody tr td:first-child{width: 50px;}
+.mCSB_container table.table tbody tr td:first-child img{width: 100%; max-width: 100%; height: auto;}
+
+.myResourceSearch .searchSecCus {float: left;}
+.searchSecCus .selectDropdown {height: 30px; font-size: 13px; margin-right: 7px; padding: 3px 5px;}
+.searchSecCus .delBtn {font-size: 12px; line-height: 24px; padding: 2px .75rem;}
+.myResourcePro .myResourceProSub .table td, .myResourcePro .myResourceProSub .table th {font-size: 12px; font-weight: 400;}
+
+.searchPanel .searchPanelSub .fielterSec {width: 100%; margin-bottom: 7px;}
+
+.searchPanel .searchPanelSub .shortBy {width: 100%;}
+.searchPanel .searchPanelSub .shortBy {width: 100%;}
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn {padding: 0 5px;}
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn input[type="button"] {width: 50% !important;}
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn input[type="reset"] {width: 48%;}
+.searchPanel .searchPanelSub .fielterSec .fieldSec {padding: 0 10px;}
+.searchPanel .searchPanelSub .shortBy .fieldSec {padding: 0 10px;}
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn {padding: 0 10px;}
+
+.new_resources{padding: 0 30px;}
+.feture_resources{padding: 0 30px;}
+.slider_area .left_arro {left: -30px;}
+.slider_area .right_arro {right: -30px;}
+
+.testi_slider_area {padding: 0 30px;}
+.testi_slider_area .left_arro {left: 0;}
+.testi_slider_area .right_arro{right:0;}
+.testi_feature_box_cus .card .testi_client span{line-height: 35px;}
+
+.resource_card_first {margin-top: 20px;}
+
+#single-resource-header .container{padding: 25px 15px !important;}
+.resourcebox .card {height: 367px;}
+
+.footer_subscription h1, .footer_social h1 {font-size: 20px;}
+#nesletter_subscription{border: none;}
+#social_media {padding-left: 15px; padding-top: 0;}
+.card-body {padding: 15px 10px;}
+
+}
+
+@media only screen and (max-width: 740px) {
+.infographic .circleSec .circleSec_sub {width: 120px; height: 120px; padding-top: 25px;}
+.infographic .circleSec .circleSec_sub h5 {font-size: 15px;}
+.community_benifit {padding: 25px 15px;}
+
+}
+
+@media only screen and (max-width: 660px) {
+.infographic .circleSec {max-width: 50%; width: 100%; margin-bottom: 15px;}
+
+.h2, h2, .h1, h1, header#main-header .header-content h1, #categories h1.signika, .footer_subscription h1, .searchPanelCustom h2,
+.heading_cus, .searchPanelCustom .searchFormTop h4, h3.resource_title, .thum_resource h3 span {font-size: 18px;}
+#categories h1.signika span, .text-white, .resource_single .files h5.resource-section-heading, 
+.resource_single .reviewMain h5.resource-section-heading, .socialMedia h3,.userDetailsBox h3, .copyrightBox h3,
+.resource_single_list h5.resource-section-heading, .card-body h5.card-title {font-size: 14px;}
+#video_heading_text, body, #categories h1.signika span {font-size: 13px;}
+
+.footer {padding-top:25px; padding-bottom: 25px;}
+.social-btns {height: inherit;}
+
+footer .pt-4{padding-top: 0 !important;}
+footer .pt-4 p{margin-bottom: 0 !important; font-size: 11px;}
+footer a.text-white{font-size: 12px;}
+}
+
+@media only screen and (max-width: 576px) {
+  #testimonials .slick-slide.item .card-body > div{width: 100%;}
+}
+
+@media only screen and (max-width: 575px) {
+.resourcebox .card{height: inherit;}
+ul.acOverQuicAc li {width: 25%;}
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn input[type="button"] {width: 48% !important;}
+#nesletter_subscription {padding-top: 0; padding-right: 15px;}
+}
+
+@media only screen and (max-width: 520px) {
+/* .slider_area .left_arro { left: 5%;}
+.slider_area .right_arro { right: 5%;} */
+.social-icons {height: 22px;}
+.footer_subscription, .footer_social{text-align: center;}
+.customeDropdown2 .multiselect-native-select .btn-group .multiselect-selected-text {color:#bebebe; font-size: 14px;}
+ul.multiselect-container li a label {margin: 3px 0 6px 0 !important; color:#4F4F4F; font-size: 13px; position: relative;}
+ul.multiselect-container li a label.checkbox input[type="checkbox"]{position: absolute; right: 0; top: 0; right:8px; top:5px;}
+
+header#main-header {height: 230px !important;}
+header#main-header .header-content {top:45% !important;}
+header#main-header .header-content form input {font-size: 12px; padding: 22px 10px;}
+
+.btn{padding: 4px .75rem; font-size: 15px;}
+.discoverBtn{padding-right: 38px;}
+
+.resource_main{height: 450px !important;}
+.resource_main .header-content {top: inherit !important; left: 0; bottom: 6%;}
+
+.resource_fielter{height: 500px !important;}
+.resource_fielter .header-content {top: inherit !important;left: 0; bottom: 6%;}
+
+ul.acOverQuicAc li {width: 33.3%; padding:0 4px;}
+
+.adminDasboartBody .adminProfile .profile_right .pro_right_sec ul.insight li {width: 23%;}
+.adminProfile .profile_right .pro_right_sec ul.insight li span.sml {line-height: 15px;}
+
+.myResourceProSub table.table thead tr.table-active th:first-child, 
+.myResourceProSub table.table tbody tr td:first-child{width: 80px; max-width: 80px;}
+.myResourceProSub table.table tbody tr td:first-child img{width: 100%; max-width: 100%; height: auto;}
+
+.myResourceProSub table.table tr.table-active th:first-child img{width: 100%; max-width: 100%; height: auto;}
+
+
+}
+
+@media only screen and (max-width:425px) {
+  .searchPanel .searchPanelSub {padding: 9px 0 3px 0;}
+.searchPanel .searchPanelSub .fielterSec h3, 
+.searchPanel .searchPanelSub .shortBy h3 {font-size: 14px; padding-bottom: 4px; line-height: 16px;}
+.searchPanel .searchPanelSub .fielterSec .fieldSec {width: 100%; margin-bottom: 8px;}
+.searchPanel .searchPanelSub .shortBy .fieldSec {width: 100%; margin-bottom: 8px;}
+.searchPanel .searchPanelSub .fielterSec {margin-bottom: 0;}
+.boxSearchFieldCus select {padding: 5px 6px; height: 31px; font-size: 14px;}
+.boxSearchFieldCus::before{line-height: 31px}
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn input[type="button"] {width: 43% !important; padding: 6px 8px !important;}
+.searchPanel .searchPanelSub .shortBy .fieldSecBtn input[type="reset"]{width: 43% !important; padding: 6px 8px !important;}
+
+.searchPanel .searchSec {float: left; max-width: 100%;}
+
+.feture_resources, .new_resources, .testi_slider_area {padding: 0 15px;}
+
+.slider_area .left_arro {left: -20px;}
+.slider_area .right_arro {right: -20px;}
+
+.copyrightBox ul.view_link li {padding: 2px 5px 10px 5px; margin: 0 2px; float: left; width: 31.5%;}
+.copyrightBox ul.view_link li span {font-size: 11px;}
+.copyrightBox ul.view_link li span.sml {font-size: 11px;}
+
+}
+
+@media only screen and (max-width:345px) {
+.infographic .circleSec {max-width: 100%;}
+.icon_main {min-height: 42px;}
+ul.acOverQuicAc li {width: 50%;}
+ul.acOverQuicAc li span {min-height: 24px;}
+
+.feature_box_cus{padding: 0 8px;}
+.slider_area .left_arro { left: -20p; z-index: 1;}
+.slider_area .right_arro { right: -20px; z-index: 1;}
+
+.myResourceProSub table.table thead tr.table-active th:first-child, 
+.myResourceProSub table.table tbody tr td:first-child{width: 50px; max-width: 50px;}
+
+}
+
+
+
+
+
+
